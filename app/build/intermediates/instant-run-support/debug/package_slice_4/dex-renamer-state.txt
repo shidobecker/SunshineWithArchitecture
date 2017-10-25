@@ -1,0 +1,4 @@
+#Wed Oct 25 13:55:50 BRST 2017
+base.0=C\:\\Development\\Android Projects\\architectureComponentsSunshineStartingCode\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+renamed.0=classes.dex
+file.0=C\:\\Development\\Android Projects\\architectureComponentsSunshineStartingCode\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5\\classes.dex
